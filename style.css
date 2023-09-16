@@ -1,66 +1,12 @@
-/* Estilos para el elemento 'body' */
-body {
-    color: red;
+h1 {
+    color: darkgreen
+}
+p {
+    color: black;
+    font-size: 25px;
 }
 
-/* Estilos para el elemento 'p' dentro de 'body' */
-body p {
-    color: rgb(63, 63, 167);
-    font-size: 16px;
-}
-
-/* Estilos para el elemento 'a' dentro de 'body' */
-body a {
-    color: rgb(15, 134, 158);
-    text-decoration: none;
-}
-
-/* Estilos para el elemento 'h1' dentro de 'a' */
-body a h1 {
-    color: blueviolet;
-}
-
-/* Estilos para el elemento 'p' dentro de 'a' */
-body a p {
-    color: rgb(16, 139, 16);
-    font-size: 16px;
-}
-
-/* Estilos para el elemento 'a' dentro de 'a' (anidamiento adicional) */
-body a a {
-    color: rgb(27, 7, 78);
-    text-decoration: none;
-}
-/* Estilos para el elemento 'body' */
-body {
-    color: red;
-}
-
-/* Estilos para el elemento 'p' dentro de 'body' */
-body p {
-    color: blue;
-    font-size: 16px;
-}
-
-/* Estilos para el elemento 'a' dentro de 'body' */
-body a {
-    color: rgb(211, 37, 159);
-    text-decoration: none;
-}
-
-/* Estilos para el elemento 'h1' dentro de 'a' */
-body a h1 {
-    color: rgb(26, 58, 37);
-}
-
-/* Estilos para el elemento 'p' dentro de 'a' */
-body a p {
-    color: rgb(16, 139, 16);
-    font-size: 16px;
-}
-
-/* Estilos para el elemento 'a' dentro de 'a' (anidamiento adicional) */
-body a a {
-    color: rgb(27, 7, 78);
+a {
+    color: black;
     text-decoration: none;
 }
